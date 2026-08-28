@@ -10,5 +10,8 @@ If those answers live only in one person's head, the system is not finished.
 
 - [System Runbook](templates/system-runbook.md)
 - [Engineering Handoff Checklist](templates/handoff-checklist.md)
+- [Production Change Plan](templates/change-plan.md)
+- [Disaster Recovery Plan](templates/disaster-recovery-plan.md)
+- [Blameless Post-Incident Review](templates/post-incident-review.md)
 
 > Documentation is not an obituary written after implementation. It is part of the system.
