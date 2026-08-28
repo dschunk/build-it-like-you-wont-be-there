@@ -13,5 +13,9 @@ If those answers live only in one person's head, the system is not finished.
 - [Production Change Plan](templates/change-plan.md)
 - [Disaster Recovery Plan](templates/disaster-recovery-plan.md)
 - [Blameless Post-Incident Review](templates/post-incident-review.md)
+- [Privileged Access Review](templates/access-review.md)
+- [Backup and Restore Standard](templates/backup-standard.md)
+- [System Decommission Checklist](templates/decommission-checklist.md)
+- [Monitoring and Alerting Standard](templates/monitoring-standard.md)
 
 > Documentation is not an obituary written after implementation. It is part of the system.
