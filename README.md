@@ -1,5 +1,7 @@
 # Build It Like You Won't Be There Tomorrow
 
+> **Personal project notice:** This repository contains independently maintained writing, templates, and general operational guidance. It is not affiliated with, sponsored by, or endorsed by any current or former employer. Examples and templates should remain generic and must not include employer confidential or proprietary information, non-public internal procedures, customer data, credentials, or employer work product.
+
 Systems should survive the absence of the person who built them.
 
 This repository turns that principle into reusable runbooks, handoff checklists, operational-readiness questions, and documentation standards. It accompanies [Best Practices for Everyday IT](https://www.linkedin.com/newsletters/best-practices-for-everyday-it-7075059974573314048/).
