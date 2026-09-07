@@ -4,7 +4,9 @@
 
 Systems should survive the absence of the person who built them.
 
-This repository turns that principle into reusable runbooks, handoff checklists, operational-readiness questions, and documentation standards. It accompanies [Best Practices for Everyday IT](https://www.linkedin.com/newsletters/best-practices-for-everyday-it-7075059974573314048/).
+This repository turns that principle into reusable runbooks, handoff checklists, operational-readiness questions, and documentation standards. It accompanies **[Everyday IT Tips](https://everydayittips.com/)**, the permanent home of *Best Practices for Everyday IT*.
+
+For step-by-step Windows, Active Directory, Windows Server, infrastructure, security, and troubleshooting guides, use the [Everyday IT Tips guide library](https://everydayittips.com/guides/).
 
 Before calling a system complete, ask whether another engineer can determine what it does, why it exists, who owns it, what depends on it, how access works, how health is measured, what fails, and how it is recovered.
 
