@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use these operational standards or templates in teaching, research, or professional material, please cite this repository."
+title: "Build It Like You Won't Be There Tomorrow"
+type: software
+authors:
+  - family-names: Schunk
+    given-names: David
+repository-code: "https://github.com/dschunk/build-it-like-you-wont-be-there"
+url: "https://github.com/dschunk/build-it-like-you-wont-be-there"
+license: MIT
+version: 1.0.0
+date-released: 2026-09-22
