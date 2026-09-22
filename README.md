@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="assets/operational-readiness-banner.svg" alt="Build It Like You Won't Be There Tomorrow — operational readiness standards" width="100%" />
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-1f2937.svg" alt="MIT License" /></a>
+  <a href="CITATION.cff"><img src="https://img.shields.io/badge/Cite%20this%20work-CITATION.cff-245343.svg" alt="Citation metadata" /></a>
+</p>
+
 # Build It Like You Won't Be There Tomorrow
 
 > **Personal project notice:** This repository contains independently maintained writing, templates, and general operational guidance. It is not affiliated with, sponsored by, or endorsed by any current or former employer. Examples and templates should remain generic and must not include employer confidential or proprietary information, non-public internal procedures, customer data, credentials, or employer work product.
